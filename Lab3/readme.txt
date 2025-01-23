@@ -1,1 +1,0 @@
-Github connection with lab pc is successfull 🎉
