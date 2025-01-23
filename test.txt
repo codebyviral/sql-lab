@@ -1,1 +1,1 @@
-This is a test file that our github connection with lab pc is successfull 🎉
+Github connection with lab pc is successfull 🎉
